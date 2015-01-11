@@ -7,6 +7,7 @@ body {
     //background-image: url();
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #333;
+
 }
 
 .contactInfo {
@@ -33,14 +34,14 @@ body {
 .jobBackground {
     width: 1000px;
     //border: 1px solid blue;
-    margin-left: 350px;
+    margin-left: 200px;
 
 }
 
 .edBackground {
     width: 1000px;
     //border: 1px solid blue;
-    margin-left: 350px;
+    margin-left: 200px;
 }
 
 .daterange {
@@ -74,8 +75,10 @@ body {
 }
 
 .portfolio {
+    width: 100%;
     a {
         position: relative;
         top: 15px;
+        width: 700px;
     }
 }
